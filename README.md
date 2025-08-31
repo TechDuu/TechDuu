@@ -15,7 +15,7 @@ Me chamo Eduardo Simpliciano, tenho 32 anos e sou natural de São Paulo. Atualme
     <a href="https://www.linkedin.com/in/eduardo-simpliciano-46a1a8236" target="_blank">
   <img
    alt="Linkedin" 
-            title="Me Siga"
+            title="LinkedIn"
              src="https://custom-icon-badges.demolab.com/badge/Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
         <img 
